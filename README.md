@@ -15,3 +15,9 @@
 [item 8. finalizer와 cleaner 사용을 피하라](https://github.com/sky7th/effective-java/blob/master/item8.md)
 
 [item 9. try-finally 보다는 try-with-resources를 사용하라.](https://github.com/sky7th/effective-java/blob/master/item9.md)
+
+[item 10. equals는 일반 규약을 지켜 재정의하라](https://github.com/sky7th/effective-java/blob/master/item10.md)
+
+[item 11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/sky7th/effective-java/blob/master/item11.md)
+
+[item 12. toString을 항상 재정의하라](https://github.com/sky7th/effective-java/blob/master/item12.md)
