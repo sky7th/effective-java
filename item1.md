@@ -1,6 +1,6 @@
 ## 아이템 1. 생성자 대신 static 팩토리 메소드를 고려하라
 
-```
+``` java
 // 예시 코드 1
 public static Boolean valueOf(boolean b) {
     return b ? Boolean.TRUE : Boolean.FALSE;
@@ -44,7 +44,7 @@ public static Boolean valueOf(boolean b) {
 
 -   생성자는 명확한 반면 static factory는 좀 덜 명확하기 때문에 메서드명을 컨벤션을 따라서 잘 지어줘야 한다.
     
-    ```
+    ``` java
     // from : ~로 부터 반환. 형변환해서 반환.
     Date d = Date.from(instant);
     // of : 집계해서 반환.
