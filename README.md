@@ -1,3 +1,4 @@
+### 객체 생성과 파괴
 [item 1. 생성자 대신 static 팩토리 메소드를 고려하라](https://github.com/sky7th/effective-java/blob/master/item1.md)
 
 [item 2. 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/sky7th/effective-java/blob/master/item2.md)
@@ -14,10 +15,21 @@
 
 [item 8. finalizer와 cleaner 사용을 피하라](https://github.com/sky7th/effective-java/blob/master/item8.md)
 
-[item 9. try-finally 보다는 try-with-resources를 사용하라.](https://github.com/sky7th/effective-java/blob/master/item9.md)
+[item 9. try-finally 보다는 try-with-resources를 사용하라.](https://github.com/sky7th/effective-java/blob/master/item9.md)  
+
+
+### 모든 객체의 공통 메서드
 
 [item 10. equals는 일반 규약을 지켜 재정의하라](https://github.com/sky7th/effective-java/blob/master/item10.md)
 
 [item 11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/sky7th/effective-java/blob/master/item11.md)
 
 [item 12. toString을 항상 재정의하라](https://github.com/sky7th/effective-java/blob/master/item12.md)
+
+### 클래스와 멤버의 접근 권한을 최소화하라
+
+[item 15. 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/sky7th/effective-java/blob/master/item15.md)
+
+[item 16. public 클래스에서는 public 필드가 아닌 접근자 메스드를 사용하라](https://github.com/sky7th/effective-java/blob/master/item16.md)
+
+[item 17. 변경 가능성을 최소화하라](https://github.com/sky7th/effective-java/blob/master/item17.md)
