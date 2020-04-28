@@ -33,3 +33,9 @@
 [item 16. public 클래스에서는 public 필드가 아닌 접근자 메스드를 사용하라](https://github.com/sky7th/effective-java/blob/master/item16.md)
 
 [item 17. 변경 가능성을 최소화하라](https://github.com/sky7th/effective-java/blob/master/item17.md)
+
+[item 18. 상속보다는 컴포지션을 사용하라](https://github.com/sky7th/effective-java/blob/master/item18.md)
+
+[item 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://github.com/sky7th/effective-java/blob/master/item19.md)
+
+[item 20. 추상 클래스보다는 인터페이스를 우선하라](https://github.com/sky7th/effective-java/blob/master/item20.md)
