@@ -39,3 +39,11 @@
 [item 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://github.com/sky7th/effective-java/blob/master/item19.md)
 
 [item 20. 추상 클래스보다는 인터페이스를 우선하라](https://github.com/sky7th/effective-java/blob/master/item20.md)
+
+[item21. 인터페이스는 구현하는 쪽을 생각해 설계하라](https://github.com/sky7th/effective-java/blob/master/item21.md)
+
+[item 22. 인터페이스는 타입을 정의하는 용도로만 사용하라](https://github.com/sky7th/effective-java/blob/master/item22.md)
+
+[item 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/sky7th/effective-java/blob/master/item23.md)
+
+[item 24. 멤버 클래스는 되도록 static으로 만들라](https://github.com/sky7th/effective-java/blob/master/item24.md)
