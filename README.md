@@ -26,7 +26,7 @@
 
 [item 12. toString을 항상 재정의하라](https://github.com/sky7th/effective-java/blob/master/item12.md)
 
-### 클래스와 멤버의 접근 권한을 최소화하라
+### 클래스와 인터페이스
 
 [item 15. 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/sky7th/effective-java/blob/master/item15.md)
 
@@ -47,3 +47,13 @@
 [item 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/sky7th/effective-java/blob/master/item23.md)
 
 [item 24. 멤버 클래스는 되도록 static으로 만들라](https://github.com/sky7th/effective-java/blob/master/item24.md)
+
+[item 25. 톱레벨 클래스는 한 파일에 하나만 담으라](https://github.com/sky7th/effective-java/blob/master/item25.md)
+
+[item 26. 로 타입은 사용하지 말라](https://github.com/sky7th/effective-java/blob/master/item26.md)
+
+[item 27. 비검사 경고를 제거하라](https://github.com/sky7th/effective-java/blob/master/item27.md)
+
+[item 28. 배열보다는 리스트를 사용하라](https://github.com/sky7th/effective-java/blob/master/item28.md)
+
+[item 29. 이왕이면 제네릭 타입으로 만들라](https://github.com/sky7th/effective-java/blob/master/item29.md)
