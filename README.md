@@ -63,3 +63,9 @@
 [item 30. 이왕이면 제너릭 메서드로 만들라](https://github.com/sky7th/effective-java/blob/master/item30.md)
 
 [item 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](https://github.com/sky7th/effective-java/blob/master/item31.md)
+
+
+## 메서드
+[item 49. 매개변수가 유효한지 검사하라](https://github.com/sky7th/effective-java/blob/master/item49.md)
+
+[item 50. 적시에 방어적 복사본을 만들라](https://github.com/sky7th/effective-java/blob/master/item50.md)
