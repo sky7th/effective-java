@@ -69,3 +69,9 @@
 [item 49. 매개변수가 유효한지 검사하라](https://github.com/sky7th/effective-java/blob/master/item49.md)
 
 [item 50. 적시에 방어적 복사본을 만들라](https://github.com/sky7th/effective-java/blob/master/item50.md)
+
+[item 51. 메서드 시그니처를 신중하게 설계하라](https://github.com/sky7th/effective-java/blob/master/item51.md)
+
+[item 52. 다중정의는 신중히 사용하라](https://github.com/sky7th/effective-java/blob/master/item52.md)
+
+[item 53. 가변인수는 신중히 사용하라](https://github.com/sky7th/effective-java/blob/master/item53.md)
