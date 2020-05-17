@@ -75,3 +75,7 @@
 [item 52. 다중정의는 신중히 사용하라](https://github.com/sky7th/effective-java/blob/master/item52.md)
 
 [item 53. 가변인수는 신중히 사용하라](https://github.com/sky7th/effective-java/blob/master/item53.md)
+
+[item 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://github.com/sky7th/effective-java/blob/master/item54.md)
+
+[item 55. 옵셔널 반환은 신중히 하라](https://github.com/sky7th/effective-java/blob/master/item55.md)
