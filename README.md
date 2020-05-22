@@ -79,3 +79,18 @@
 [item 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://github.com/sky7th/effective-java/blob/master/item54.md)
 
 [item 55. 옵셔널 반환은 신중히 하라](https://github.com/sky7th/effective-java/blob/master/item55.md)
+
+[item 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](./item56.md)
+
+## 일반적인 프로그래밍 원칙
+[item 57. 지역변수의 범위를 최소화하라](./item57.md)
+
+[item 58. 전통적인 for 문보다는 for-each 문을 사용하라](./item58.md)
+
+[item 59. 라이브러리를 익히고 사용하라](./item59.md)
+
+[item 60. 정확한 답이 필요하다면 float와 double은 피하라](./item60.md)
+
+[item 61. 박싱된 기본 타입보다는 기본 타입을 사용하라](./item61.md)
+
+[item 62. 다른 타입이 적절하다면 문자열 사용을 피하라](./item62.md)
