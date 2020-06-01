@@ -72,10 +72,10 @@ public final class ThreadLocal {
 
 ```java
 // 매개변수화하여 타입안전성 확보
-public final class ThreadLocal {
+public final class ThreadLocal<T> {
     public ThreadLocal();
-    public static void set(Object value);
-    public static Object get();
+    public static void set(T value);
+    public static T get();
 }
 ```
 - 이제 자바의 java.lang.ThreadLocal과 흡사해졌다.

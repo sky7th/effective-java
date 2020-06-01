@@ -51,7 +51,7 @@ private Object readResolve() {
 ### enum 타입 방식의 싱글턴 - 바람직한 방법
 
 ```java
-public class Elvis {
+public enum Elvis {
     INSTANCE;
     ...
 }

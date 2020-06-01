@@ -30,7 +30,7 @@
 
 [item 15. 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/sky7th/effective-java/blob/master/item15.md)
 
-[item 16. public 클래스에서는 public 필드가 아닌 접근자 메스드를 사용하라](https://github.com/sky7th/effective-java/blob/master/item16.md)
+[item 16. public 클래스에서는 public 필드가 아닌 접근자 메소드를 사용하라](https://github.com/sky7th/effective-java/blob/master/item16.md)
 
 [item 17. 변경 가능성을 최소화하라](https://github.com/sky7th/effective-java/blob/master/item17.md)
 

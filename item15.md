@@ -18,13 +18,13 @@ public static final Thing[] VALUES = { ... };
 
 해결책 1. public 불변 리스트 추가
 ```java
-public static final Thing[] PRIVATE_VALUES = { ... };
+private static final Thing[] PRIVATE_VALUES = { ... };
 public static final List<Thing> VALUES = Collections.unmodifiableList(Arrays.asList(PRIVATE_VALUES));
 ```
 
 해결책 2. 복사본을 반환하는 public 메서드 추가
 ``` java
-public static final Thing[] PRIVATE_VALUES = { ... };
+private static final Thing[] PRIVATE_VALUES = { ... };
 public static final List<Thing> values() {
   return PRIVATE_VALUES.clone();
 }

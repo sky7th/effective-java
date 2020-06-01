@@ -50,7 +50,7 @@ public Cheese[] getCheeses() {
 }
 ```
 ```java 
-// 최적화 - 빈 배열을 매번 새로 하랃ㅇ하지 않도록 했다.
+// 최적화 - 빈 배열을 매번 새로 할당하지 않도록 했다.
 private static final Cheese[] EMPTY_CHEESE_ARRAY = new Cheese[0];
 
 public Cheese[] getCheeses() {
